@@ -1,3 +1,2 @@
 # Data-Analytics-Essentials
-Laboratory on my Journey on Data Analytics with Cisco Networking Academy. This is a
-Data Presentation on a workbook using Predefined Exel Fomulars and Functions
+As part of my Data Analytics journey with Cisco Networking Academy, I conducted a laboratory exercise. In this exercise, I created a data presentation workbook utilizing predefined Excel formulas and functions.
